@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "230308950960",
+    "project_id": "nested-movie",
+    "storage_bucket": "nested-movie.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:230308950960:android:c3589529b17ade6a271c75",
+        "android_client_info": {
+          "package_name": "com.itnation.nestedmovie"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCicU1vmOS9brWwGg604AGDDF_uVXTyRHo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
